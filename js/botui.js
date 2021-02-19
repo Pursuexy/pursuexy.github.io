@@ -91,7 +91,7 @@ function bot_ui_ini() {
                                         delay: 1100,
                                         action: [{
                                             text: "为什么叫Pursuexy呢？ 🤔",
-                                            value: "why-Pursuexy"
+                                            value: "why-pursuexy"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
